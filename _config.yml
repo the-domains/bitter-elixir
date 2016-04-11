@@ -1,0 +1,28 @@
+name: Bitter Elixir
+favicon: null
+layout_spectrum: 0.10439441562630236
+typography_spectrum: 0.2777360787149519
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.41443627048283815
+  lightness: 0.22606919542886317
+  saturation: 0.9570735944435
+  rhythmicContrast: 0.8858568170107901
+purpose: []
